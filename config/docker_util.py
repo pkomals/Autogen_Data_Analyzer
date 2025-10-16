@@ -6,6 +6,7 @@ def getDockerCommandLineCodeExecutor():
         # a default python image is created if not specified
         # image="python:3.9-slim",
         # can be any valid docker image with necessary dependencies pre-installed
+        image="python:3.9-slim",
         work_dir=WORK_DIR_DOCKER,
         timeout=TIMEOUT_DOCKER
     )
