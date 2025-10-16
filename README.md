@@ -1,8 +1,8 @@
 # Autogen_Data_Analyzer# 🧠 AutoGen Code Analyst
 
 [![Made with AutoGen](https://img.shields.io/badge/Made%20with-AutoGen-blue?logo=openai)](https://github.com/microsoft/autogen)
-[![Streamlit]](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit)
-[![Python]](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+[![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit)]
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)]
 
 A modular, multi-agent system built using **AutoGen** for analyzing and visualizing tabular datasets (CSV/Excel). This project uses AutoGen’s RoundRobinGroupChat to coordinate agent turn-taking between the DataAnalyzerAgent and CodeExecutorAgent. This ensures structured, sequential collaboration where one agent reasons and the other executes—repeating the cycle until the task is complete.
 
