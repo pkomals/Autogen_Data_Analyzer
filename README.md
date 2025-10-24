@@ -1,4 +1,4 @@
-# Autogen_Data_Analyzer# 🧠 AutoGen Code Analyst
+# Autogen_Data_Analyzer 🧠 AutoGen Code Analyst
 
 [![Made with AutoGen](https://img.shields.io/badge/Made%20with-AutoGen-blue?logo=openai)](https://github.com/microsoft/autogen)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit)]
